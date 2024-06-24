@@ -6,7 +6,7 @@ This platform is a website that connects freelancers and clients. It has a homep
 
 ## 🎥 Home Page
 
-[![Work Wonders - Freelance Website App](https://github.com/itssouray/Work-Finder/blob/main/client/src/assets/Images/Miniature.png)]()
+[![Work Wonders - Freelance Website App](https://github.com/Shoyabk1707/Work-Finder/blob/main/client/src/assets/Images/Miniature.png)]()
 
 
 ## 🛠️ Technologies Used
