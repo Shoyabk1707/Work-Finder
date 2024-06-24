@@ -42,13 +42,8 @@ Before you begin, ensure you have the following:
 ## 📦 Frontend Packages
 
 - Axios
-- Moment
 - React Icons
-- Reduxjs/toolkit
 - React Router
 - React Router Hash Link
 - React Spinners
-- React Toastify
-- Socket.io Client
 - Swiper
-# Work-Finder
